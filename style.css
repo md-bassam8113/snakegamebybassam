@@ -1,0 +1,13 @@
+h1,h2, .game-canvas{
+    text-align: center;
+    color: white;
+}
+#score, #game-status{
+    color: white;
+}
+.main{
+    width: 200%;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
